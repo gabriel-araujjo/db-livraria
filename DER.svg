@@ -1,0 +1,1970 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1112px"
+   height="622px"
+   version="1.1"
+   content="&lt;mxfile userAgent=&quot;Mozilla/5.0 (X11; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0&quot; version=&quot;7.7.1&quot; editor=&quot;www.draw.io&quot; type=&quot;google&quot;&gt;&lt;diagram&gt;7Z1dc+I2FIZ/DZft+Bu43GSz3Yu2szPpTNurHQUU7I2xPLJIwv76yiCDrSMSB2RJQPcmWP7AfnR8pPecI3YU3i5ff6OoTP8gc5yPAm/+Ogo/j4IgDmKf/6lb1tuWJBQNC5rNt02thvvsJxaNnmhdZXNcdQ5khOQsK7uNM1IUeMY6bYhS8tI97JHk3W8t0QKDhvsZymHr39mcpdvWyPO8/Y6vOFuk4quD3Z4HNHtaULIqxBeOgvBx82+7e4mai4njqxTNyUurKbwbhbeUELb9tHy9xXkNt+G2Pe/Lgb27G6e4YH1OCMRtsHXz7HjOUYjNghT8z83meXB9hs+3UrbMxUf8mrF/Wp//5Z+9X+N6q2B0vdtVb+z3/cCMrUWnoxUjvIlQlpIFKVD+OyGlOO2RFOwLWmZ5bUVfcf6MWTZDfMf2nusb7Tx1RVZ0JpqiiTAbRBdYkIhCSMffMefGjMkS8zvlh1CcI5Y9d6+PhFUtdsftwfIPgq2ac6iFs3eYs+cO59CzxzkCnN+HugXZYNUBbt8r+06S+uwbphl/OkzFd/Zg7U/dYh0fwRoYsD7WCk/TA2oDsA11Yo9p8gGmQ7rYwx12JNOpfqbi1G8k41cMPDH78GPx7WLuESRe9xLbOxVnST2zu41enTXW8QLYHilVneVb9Cri5XtG+UpcNKseCjh85jmfDdajJp9ClXXjnKwecny3a1/yB8qKmlANvWKUPO1mc4GAJtj6Y779kmYM35doA+aFT2y7PYjybFFfbcaJ1F5bsH3GlOHXztP3oLaWbPVlP8v0m6lk2ppgxt7pYKcALMsYx3mY7DtE3rG6k8gEEwWZQEEm0kCmMfcWmjVG1FEyzbhrhIwPIHxwPuUPOZ/ye06cQoWLG2BA6k1Vj+oaYDL1AZgGRvKgO5LHcfcK2+7UMZA3z9RyACUfTLIqxdALwJHkoyPHIO5BnLBzZuuuF3hvhAl1eAuovk6OJhzUuFocSx97V6muyKLzgLJLB2SNPvooHabEnFjEDJXYxWKOLWKGGupUzP47lGw5jdim05hcD2ab1gw1VrU5Qp5CCMlKU7J8WFW95GnZChiK81oxRKPqtZlqeN2phq+aa6iUiRyROQZ1ADXbn4AzfzbW5UBxlf1ED5sDaqMt69nj5jbim1H8uSbFbbUS3FvgcvxYX6oGxs0z/ySaWW3HNxXnnhWLvzZG/Us09BSvUYC7CBdUhCrsgQ7sPsAOJeKFYo+65j6G1j4YdU2C0Tll3uRr2g58iPD7AYGZdF+kSHZM+hSmrgSgwVzV8T04RFKqXw/uXsoBejACnu+F8jH3Ugf3UIoj+NDdJUON7XokrnvJxkCRLU/6d82pL4vUpbE/3MuiRz27ly1T9qBFYafIQQ4K2iZmi8JOkZXkj56Sc48OxybDw00G8oCt7o3obt/aZ0o0lme1tp2EKqWeDFUA8YlStG4dIKTVwVEgmEiT3m6FIP+wveKxrj+EwvyBkKczf1FUam+wFyWEIvtqYhuSyA49cyo7DP7H3owLgUHsMPl6rdgDRT3QYNihnkVLPtgyOEhbLXt5baxEdgzQHw9VBdMkyLphffx9jhTy3w1aSZfW2GDNUJO1bdGa45zPZ+j6jIj5JsusQk0qDkQH3wrPGlkeoKi8SoLefaN/GYaePOh5gI7HFkG/rfV0gHYGs8XlAo3zMYTZ4LoiFWiLJZsRzHJeLujE4kK5KHgT9NFBooMxIpe4uxIjmkqVt7pjRBGUfKvq7EptJ2OLMaLotFpbbQvE5ALHPqavCO7H/enrdzmnpRudQznA/FrtJhIQvpAq9PUttYscLcc9to9sjrD6S24lBeRFQXdQTcYH1z1b6wGLteURzCaWK1qlqLrUapI4OeApTJSKRrAq91oCzKGcxjJYKtrEsq8Q+wSsQTeIHSYPXY7rJxMp7mpy4W8zVVI4YodD1YmkzvzQYKg6Vi2VFMhmZO4msVhKHvmK93E4YjDRVhdEfC9pNnPUwkLJf/kqZTsYL0W2DeUOW1coyyDfpHXBbJvr1pVMJV4mU21NUqTFq0BLR0lNpRVWU5OvIRQpeIkyuJjNDVJy+tbomAgFRpnWMtpNVDZnXE039X/9zvHnfXYLJDugVSUrQ/3YTwJVwNVwjlQGPRhoKCFm5eNlcp6A4kyDnKHu4JojddTF2pzhJAq9kVGWvqdoz9gw5R8K6rsQXYthQrmywV3m6M0J+OXgThQ12sPh/sgvZCpWN5mqFGpy+e2cw9hi1ifRv1DsjaU2NiFbXI2XaCovdMVeA4sooaaiuML0+WJTZFI1SdhX7OtIkY2hLLuWXI0cYzG54mh8xQu9ZHM3iR1qNpdTZLJniE2ufRlD3SX8sLsB+UjSqVFfPaAFGJRfDTB3U4qRFBOMBow08839/2+yLQXb/y8y4d1/&lt;/diagram&gt;&lt;/mxfile&gt;"
+   id="svg456"
+   sodipodi:docname="DER.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata460">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview458"
+     showgrid="false"
+     inkscape:zoom="0.75289067"
+     inkscape:cx="-11.050303"
+     inkscape:cy="369.7799"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g454" />
+  <defs
+     id="defs2" />
+  <g
+     transform="translate(0.5,0.5)"
+     id="g454">
+    <path
+       d="M 681.43 255.71 L 965.06 255.71"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path4" />
+    <path
+       d="M 970.31 255.71 L 963.31 259.21 L 965.06 255.71 L 963.31 252.21 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path6" />
+    <path
+       d="M 561.43 255.71 L 217.8 255.71"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path8" />
+    <path
+       d="M 212.55 255.71 L 219.55 252.21 L 217.8 255.71 L 219.55 259.21 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path10" />
+    <path
+       d="M 261.43 111.43 L 261.43 249.35"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path12" />
+    <path
+       d="M 261.43 254.6 L 257.93 247.6 L 261.43 249.35 L 264.93 247.6 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path14" />
+    <path
+       d="M 211.43 255.71 L 105.93 150.22"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path16" />
+    <path
+       d="M 102.22 146.5 L 109.64 148.98 L 105.93 150.22 L 104.69 153.93 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path18" />
+    <path
+       d="M 211.43 255.71 L 127.7 270.33"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path20" />
+    <path
+       d="M 122.53 271.24 L 128.82 266.58 L 127.7 270.33 L 130.03 273.48 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path22" />
+    <path
+       d="M 211.43 255.71 L 127.25 218.3"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path24" />
+    <path
+       d="M 122.45 216.17 L 130.27 215.81 L 127.25 218.3 L 127.43 222.21 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path26" />
+    <ellipse
+       cx="51"
+       cy="146"
+       rx="50"
+       ry="25"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse28" />
+    <ellipse
+       cx="51"
+       cy="146"
+       rx="40"
+       ry="15"
+       fill="transparent"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse30"
+       style="fill:none" />
+    <g
+       transform="translate(35.5,136.5)"
+       id="g36">
+      <switch
+         id="switch34">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="31"
+           height="18"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 32px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">isbn</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="16"
+           y="18"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="17px"
+           font-family="Helvetica"
+           id="text32">isbn</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="61"
+       cy="271"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse38" />
+    <g
+       transform="translate(50.5,263.5)"
+       id="g44">
+      <switch
+         id="switch42">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="19"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">title</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="10"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text40">title</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="61"
+       cy="216"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse46" />
+    <g
+       transform="translate(47.5,208.5)"
+       id="g52">
+      <switch
+         id="switch50">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="24"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 25px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">year</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="12"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text48">year</text>
+      </switch>
+    </g>
+    <path
+       d="M 261.43 41.43 L 261.43 165.06"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path54" />
+    <path
+       d="M 261.43 170.31 L 257.93 163.31 L 261.43 165.06 L 264.93 163.31 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path56" />
+    <path
+       d="M 211.43 25.71 L 127.37 25.98"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path58" />
+    <path
+       d="M 122.12 26 L 129.11 22.47 L 127.37 25.98 L 129.13 29.47 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path60" />
+    <rect
+       x="211"
+       y="11"
+       width="100"
+       height="30"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="rect62" />
+    <g
+       transform="translate(235.5,19.5)"
+       id="g68">
+      <switch
+         id="switch66">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="51"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 52px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">publisher</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="26"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text64">publisher</text>
+      </switch>
+    </g>
+    <path
+       d="M 291.43 125.71 L 345.16 41.09"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path70" />
+    <path
+       d="M 347.97 36.66 L 347.17 44.44 L 345.16 41.09 L 341.27 40.69 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path72" />
+    <path
+       d="M 291.43 125.71 L 355.12 116.61"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path74" />
+    <path
+       d="M 360.32 115.87 L 353.89 120.33 L 355.12 116.61 L 352.9 113.4 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path76" />
+    <path
+       d="M 291.43 125.71 L 356.59 69.86"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path78" />
+    <path
+       d="M 360.58 66.44 L 357.54 73.65 L 356.59 69.86 L 352.99 68.34 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path80" />
+    <path
+       d="M 291.43 155.71 L 345.09 160.82"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path82" />
+    <path
+       d="M 350.32 161.32 L 343.02 164.14 L 345.09 160.82 L 343.68 157.17 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path84" />
+    <path
+       d="M 291.43 155.71 L 336.93 201.21"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path86" />
+    <path
+       d="M 340.64 204.92 L 333.21 202.45 L 336.93 201.21 L 338.16 197.5 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path88" />
+    <path
+       d="M 261 111 L 321 141 L 261 171 L 201 141 Z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path90" />
+    <g
+       transform="translate(247.5,131.5)"
+       id="g96">
+      <switch
+         id="switch94">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="26"
+           height="18"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 27px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">sell</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="13"
+           y="18"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="17px"
+           font-family="Helvetica"
+           id="text92">sell</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(227.5,238.5)"
+       id="g102">
+      <switch
+         id="switch100">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="9"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">N</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="5"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text98">N</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(242.5,43.5)"
+       id="g108">
+      <switch
+         id="switch106">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="7"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">1</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="4"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text104">1</text>
+      </switch>
+    </g>
+    <path
+       d="M 261.43 441.43 L 261.43 535.06"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path110" />
+    <path
+       d="M 261.43 540.31 L 257.93 533.31 L 261.43 535.06 L 264.93 533.31 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path112" />
+    <path
+       d="M 261.43 381.43 L 261.43 247.8"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path114" />
+    <path
+       d="M 261.43 242.55 L 264.93 249.55 L 261.43 247.8 L 257.93 249.55 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path116" />
+    <path
+       d="M 261 381 L 291 411 L 261 441 L 231 411 Z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path118" />
+    <g
+       transform="translate(242.5,401.5)"
+       id="g124">
+      <switch
+         id="switch122">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="36"
+           height="18"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 37px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">write</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="18"
+           y="18"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="17px"
+           font-family="Helvetica"
+           id="text120">write</text>
+      </switch>
+    </g>
+    <path
+       d="M 211.43 525.71 L 127 478.81"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path126" />
+    <path
+       d="M 122.41 476.26 L 130.22 476.6 L 127 478.81 L 126.83 482.72 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path128" />
+    <path
+       d="M 211.43 525.71 L 147.73 534.81"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path130" />
+    <path
+       d="M 142.54 535.56 L 148.97 531.1 L 147.73 534.81 L 149.96 538.03 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path132" />
+    <path
+       d="M 211.43 525.71 L 129.73 575.27"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path134" />
+    <path
+       d="M 125.24 577.99 L 129.41 571.37 L 129.73 575.27 L 133.04 577.35 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path136" />
+    <rect
+       x="211"
+       y="511"
+       width="100"
+       height="30"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="rect138" />
+    <g
+       transform="translate(243.5,519.5)"
+       id="g144">
+      <switch
+         id="switch142">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="35"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 36px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">author</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="18"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text140">author</text>
+      </switch>
+    </g>
+    <path
+       d="M 285.71 271.43 L 285.71 381.43 Q 285.71 391.43 295.71 391.43 L 685.06 391.43"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path146" />
+    <path
+       d="M 690.31 391.43 L 683.31 394.93 L 685.06 391.43 L 683.31 387.93 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path148" />
+    <rect
+       x="211"
+       y="241"
+       width="100"
+       height="30"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="rect150" />
+    <g
+       transform="translate(247.5,249.5)"
+       id="g156">
+      <switch
+         id="switch154">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="27"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 28px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">book</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="14"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text152">book</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(242.5,273.5)"
+       id="g162">
+      <switch
+         id="switch160">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="9"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">N</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="5"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text158">N</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(242.5,493.5)"
+       id="g168">
+      <switch
+         id="switch166">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="9"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">N</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="5"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text164">N</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(242.5,223.5)"
+       id="g174">
+      <switch
+         id="switch172">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="9"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">N</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="5"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text170">N</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="391"
+       cy="21"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse176" />
+    <g
+       transform="translate(369.5,13.5)"
+       id="g182">
+      <switch
+         id="switch180">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="41"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 42px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">amount</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="21"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text178">amount</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="421"
+       cy="66"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse184" />
+    <g
+       transform="translate(392.5,58.5)"
+       id="g190">
+      <switch
+         id="switch188">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="54"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 55px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">sele_date</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="27"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text186">sele_date</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="421"
+       cy="116"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse192" />
+    <g
+       transform="translate(382.5,108.5)"
+       id="g198">
+      <switch
+         id="switch196">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="74"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 75px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">delivery_date</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="37"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text194">delivery_date</text>
+      </switch>
+    </g>
+    <path
+       d="M 921.43 241.43 L 892.42 57.72"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path200" />
+    <path
+       d="M 891.6 52.53 L 896.15 58.9 L 892.42 57.72 L 889.24 59.99 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path202" />
+    <path
+       d="M 921.43 241.43 L 959.68 107.55"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path204" />
+    <path
+       d="M 961.12 102.5 L 962.56 110.2 L 959.68 107.55 L 955.83 108.27 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path206" />
+    <path
+       d="M 921.43 241.43 L 975.45 145.55"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path208" />
+    <path
+       d="M 978.02 140.97 L 977.64 148.79 L 975.45 145.55 L 971.54 145.35 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path210" />
+    <path
+       d="M 921.43 241.43 L 977.28 176.26"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path212" />
+    <path
+       d="M 980.7 172.28 L 978.8 179.87 L 977.28 176.26 L 973.49 175.31 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path214" />
+    <path
+       d="M 921.43 241.43 L 985.45 217.91"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path216" />
+    <path
+       d="M 990.38 216.1 L 985.02 221.8 L 985.45 217.91 L 982.6 215.23 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path218" />
+    <path
+       d="M 921.43 271.43 L 921.43 381.43 Q 921.43 391.43 911.43 391.43 L 577.8 391.43"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path220" />
+    <path
+       d="M 572.55 391.43 L 579.55 387.93 L 577.8 391.43 L 579.55 394.93 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path222" />
+    <rect
+       x="871"
+       y="241"
+       width="100"
+       height="30"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="rect224" />
+    <g
+       transform="translate(908.5,249.5)"
+       id="g230">
+      <switch
+         id="switch228">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="24"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 25px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">user</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="12"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text226">user</text>
+      </switch>
+    </g>
+    <path
+       d="M 651.43 241.43 L 712.67 193.36"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path232" />
+    <path
+       d="M 716.8 190.12 L 713.46 197.19 L 712.67 193.36 L 709.14 191.69 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path234" />
+    <path
+       d="M 651.43 241.43 L 674.43 152.1"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path236" />
+    <path
+       d="M 675.74 147.01 L 677.38 154.67 L 674.43 152.1 L 670.6 152.92 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path238" />
+    <path
+       d="M 651.43 241.43 L 608.53 180.66"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path240" />
+    <path
+       d="M 605.5 176.37 L 612.39 180.07 L 608.53 180.66 L 606.68 184.11 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path242" />
+    <path
+       d="M 651.43 241.43 L 689.84 225.32"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path244" />
+    <path
+       d="M 694.68 223.29 L 689.58 229.22 L 689.84 225.32 L 686.87 222.77 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path246" />
+    <path
+       d="M 621 226 L 681 256 L 621 286 L 561 256 Z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path248" />
+    <g
+       transform="translate(586.5,246.5)"
+       id="g254">
+      <switch
+         id="switch252">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="69"
+           height="18"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 70px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">purshase</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="35"
+           y="18"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="17px"
+           font-family="Helvetica"
+           id="text250">purshase</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(312.5,238.5)"
+       id="g260">
+      <switch
+         id="switch258">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="9"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">N</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="5"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text256">N</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(852.5,238.5)"
+       id="g266">
+      <switch
+         id="switch264">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="9"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">N</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="5"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text262">N</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="741"
+       cy="171"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse268" />
+    <g
+       transform="translate(719.5,163.5)"
+       id="g274">
+      <switch
+         id="switch272">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="41"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 42px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">amount</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="21"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text270">amount</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="681"
+       cy="126"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse276" />
+    <g
+       transform="translate(638.5,118.5)"
+       id="g282">
+      <switch
+         id="switch280">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="82"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 83px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">purshase_date</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="41"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text278">purshase_date</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="591"
+       cy="156"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse284" />
+    <g
+       transform="translate(550.5,148.5)"
+       id="g290">
+      <switch
+         id="switch288">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="78"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 79px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">purshase_cod</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="39"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text286">purshase_cod</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="411"
+       cy="161"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse292" />
+    <g
+       transform="translate(379.5,153.5)"
+       id="g298">
+      <switch
+         id="switch296">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="61"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 62px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">book_price</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="31"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text294">book_price</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="401"
+       cy="206"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse300" />
+    <g
+       transform="translate(374.5,198.5)"
+       id="g306">
+      <switch
+         id="switch304">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="50"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 51px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">sale_cod</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="25"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text302">sale_cod</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="751"
+       cy="216"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse308" />
+    <g
+       transform="translate(719.5,208.5)"
+       id="g314">
+      <switch
+         id="switch312">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="61"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 62px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">book_price</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="31"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text310">book_price</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="961"
+       cy="81"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse316" />
+    <g
+       transform="translate(944.5,73.5)"
+       id="g322">
+      <switch
+         id="switch320">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="31"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 32px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">name</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="16"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text318">name</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="1021"
+       cy="126"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse324" />
+    <g
+       transform="translate(1004.5,118.5)"
+       id="g330">
+      <switch
+         id="switch328">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="30"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 31px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">email</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="15"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text326">email</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="1041"
+       cy="171"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse332" />
+    <g
+       transform="translate(1022.5,163.5)"
+       id="g338">
+      <switch
+         id="switch336">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="35"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 36px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">phone</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="18"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text334">phone</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="71"
+       cy="26"
+       rx="50"
+       ry="25"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse340" />
+    <ellipse
+       cx="71"
+       cy="26"
+       rx="40"
+       ry="15"
+       fill="transparent"
+       pointer-events="none"
+       id="ellipse342"
+       stroke-width="2"
+       stroke="#000000"
+       style="fill:none" />
+    <g
+       transform="translate(50.5,16.5)"
+       id="g348">
+      <switch
+         id="switch346">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="41"
+           height="18"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 42px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">name</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="21"
+           y="18"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="17px"
+           font-family="Helvetica"
+           id="text344">name</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="71"
+       cy="476"
+       rx="50"
+       ry="25"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse350" />
+    <ellipse
+       cx="71"
+       cy="476"
+       rx="40"
+       ry="15"
+       fill="transparent"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse352"
+       style="fill:none" />
+    <g
+       transform="translate(50.5,466.5)"
+       id="g358">
+      <switch
+         id="switch356">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="41"
+           height="18"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 42px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">name</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="21"
+           y="18"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="17px"
+           font-family="Helvetica"
+           id="text354">name</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="891"
+       cy="26"
+       rx="50"
+       ry="25"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse360" />
+    <ellipse
+       cx="891"
+       cy="26"
+       rx="40"
+       ry="15"
+       fill="transparent"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse362"
+       style="fill:none" />
+    <g
+       transform="translate(879.5,16.5)"
+       id="g368">
+      <switch
+         id="switch366">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="23"
+           height="18"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 24px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">cpf</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="12"
+           y="18"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="17px"
+           font-family="Helvetica"
+           id="text364">cpf</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="1051"
+       cy="216"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse370" />
+    <g
+       transform="translate(1036.5,208.5)"
+       id="g376">
+      <switch
+         id="switch374">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="27"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 28px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">hash</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="14"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text372">hash</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="81"
+       cy="536"
+       rx="60.00000000000001"
+       ry="25"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse378" />
+    <ellipse
+       cx="81"
+       cy="536"
+       rx="50.00000000000001"
+       ry="15"
+       fill="transparent"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse380"
+       style="fill:none" />
+    <g
+       transform="translate(43.5,526.5)"
+       id="g386">
+      <switch
+         id="switch384">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="74"
+           height="18"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 75px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">birth_date</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="37"
+           y="18"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="17px"
+           font-family="Helvetica"
+           id="text382">birth_date</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="81"
+       cy="596"
+       rx="60.00000000000001"
+       ry="25"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse388" />
+    <ellipse
+       cx="81"
+       cy="596"
+       rx="50.00000000000001"
+       ry="15"
+       fill="transparent"
+       stroke="#000000"
+       stroke-width="2"
+       pointer-events="none"
+       id="ellipse390"
+       style="fill:none" />
+    <g
+       transform="translate(44.5,586.5)"
+       id="g396">
+      <switch
+         id="switch394">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="73"
+           height="18"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 74px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">birthplace</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="37"
+           y="18"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="17px"
+           font-family="Helvetica"
+           id="text392">birthplace</text>
+      </switch>
+    </g>
+    <path
+       d="M 601.43 405.71 L 555.66 417.62"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path398" />
+    <path
+       d="M 550.58 418.94 L 556.47 413.79 L 555.66 417.62 L 558.23 420.57 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path400" />
+    <path
+       d="M 601.43 405.71 L 584.7 461.05"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path402" />
+    <path
+       d="M 583.18 466.07 L 581.86 458.36 L 584.7 461.05 L 588.56 460.39 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path404" />
+    <path
+       d="M 601.43 405.71 L 624.43 494.9"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path406" />
+    <path
+       d="M 625.74 499.99 L 620.6 494.08 L 624.43 494.9 L 627.38 492.33 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path408" />
+    <path
+       d="M 631 361 L 691 391 L 631 421 L 571 391 Z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path410" />
+    <g
+       transform="translate(602.5,381.5)"
+       id="g416">
+      <switch
+         id="switch414">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="57"
+           height="18"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 58px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">reserve</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="29"
+           y="18"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="17px"
+           font-family="Helvetica"
+           id="text412">reserve</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(902.5,273.5)"
+       id="g422">
+      <switch
+         id="switch420">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="9"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">N</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="5"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text418">N</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(272.5,273.5)"
+       id="g428">
+      <switch
+         id="switch426">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="9"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">N</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="5"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text424">N</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="631"
+       cy="521"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse430" />
+    <g
+       transform="translate(609.5,513.5)"
+       id="g436">
+      <switch
+         id="switch434">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="41"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 42px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">amount</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="21"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text432">amount</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="501"
+       cy="431"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse438" />
+    <g
+       transform="translate(465.5,423.5)"
+       id="g444">
+      <switch
+         id="switch442">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="68"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 69px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">reserve_cod</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="34"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text440">reserve_cod</text>
+      </switch>
+    </g>
+    <ellipse
+       cx="541"
+       cy="481"
+       rx="60.00000000000001"
+       ry="20"
+       fill="#ffffff"
+       stroke="#000000"
+       pointer-events="none"
+       id="ellipse446" />
+    <g
+       transform="translate(503.5,473.5)"
+       id="g452">
+      <switch
+         id="switch450">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="72"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 73px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">reserve_date</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="36"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text448">reserve_date</text>
+      </switch>
+    </g>
+  </g>
+</svg>
